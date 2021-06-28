@@ -1,0 +1,10 @@
+.form-group{
+    display: flex !important;
+    width: 500px;
+    justify-content: space-around;
+    align-items: center;
+}
+.label{
+    width: 160px;
+    text-align-last: center;
+}

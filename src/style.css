@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+h1, p {
+  font-family: Lato;
+}
+
+.card{
+  background-color: gray;
+  color:white;
+  margin: 10px;
+  padding: 10px;
+}
+.id{
+  display: flex;
+  justify-content: space-around;
+}
+.title{
+  font-size: 18px;
+  color:brown;
+  font-weight: bold;
+}
+.body{
+  color:darkslateblue;
+  text-align: -webkit-center;
+}
